@@ -8,3 +8,4 @@
 - 23 Feature Active And Working You Command Tools 
 - Tools Shinzx V3 Support Termux,Pterodactyl & VPS (Coba Saja)
 - Not Backdoor
+- Request Feature Chat t.me/fescillia (Sebisanya & Diusahakan)
